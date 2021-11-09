@@ -26,8 +26,8 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.521);
     padding: 3px;
 }
 
